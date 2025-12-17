@@ -83592,7 +83592,7 @@ A.RS.prototype={
 ag(){var s=this
 s.au()
 s.f!==$&&A.bk()
-s.f="http://10.0.2.2:8000"
+s.f="https://api.sikorder.shop"
 s.M(new A.amB(s))
 s.rO()
 s.d.a0(0,new A.amC(s))},
@@ -83733,7 +83733,7 @@ A.RT.prototype={
 ag(){var s=this
 s.au()
 s.r!==$&&A.bk()
-s.r="http://10.0.2.2:8000"
+s.r="https://api.sikorder.shop"
 s.M(new A.amJ(s))
 A.be(s.a.c)},
 lJ(){var s=0,r=A.J(t.H),q,p=2,o,n=this,m,l,k,j,i,h,g,f,e,d
@@ -83849,7 +83849,7 @@ A.Pg.prototype={
 ag(){var s=this
 s.au()
 s.d!==$&&A.bk()
-s.d="http://10.0.2.2:8000"
+s.d="https://api.sikorder.shop"
 s.bp()},
 bp(){var s=0,r=A.J(t.H),q=this,p
 var $async$bp=A.K(function(a,b){if(a===1)return A.G(b,r)
@@ -84185,7 +84185,7 @@ A.RV.prototype={
 ag(){var s=this
 s.au()
 s.d!==$&&A.bk()
-s.d="http://10.0.2.2:8000"
+s.d="https://api.sikorder.shop"
 s.bp()},
 bp(){var s=0,r=A.J(t.H),q=this,p
 var $async$bp=A.K(function(a,b){if(a===1)return A.G(b,r)
@@ -84424,7 +84424,7 @@ A.Rz.prototype={
 ag(){var s=this
 s.au()
 s.d!==$&&A.bk()
-s.d="http://10.0.2.2:8000"
+s.d="https://api.sikorder.shop"
 s.bp()},
 bp(){var s=0,r=A.J(t.H),q=this,p
 var $async$bp=A.K(function(a,b){if(a===1)return A.G(b,r)
@@ -84639,7 +84639,7 @@ A.Sh.prototype={
 ag(){var s=this
 s.au()
 s.d!==$&&A.bk()
-s.d="http://10.0.2.2:8000"
+s.d="https://api.sikorder.shop"
 s.bp()},
 bp(){var s=0,r=A.J(t.H),q=this,p
 var $async$bp=A.K(function(a,b){if(a===1)return A.G(b,r)
@@ -84877,7 +84877,7 @@ this.al()},
 ag(){var s=this
 s.au()
 s.e!==$&&A.bk()
-s.e="http://10.0.2.2:8000"
+s.e="https://api.sikorder.shop"
 s.bp()},
 bp(){var s=0,r=A.J(t.H),q=this,p
 var $async$bp=A.K(function(a,b){if(a===1)return A.G(b,r)
@@ -85369,7 +85369,7 @@ A.SA.prototype={
 ag(){var s=this
 s.au()
 s.w!==$&&A.bk()
-s.w="http://10.0.2.2:8000"
+s.w="https://api.sikorder.shop"
 s.bp()},
 l(){var s=this.r
 s.F$=$.al()
@@ -85885,7 +85885,7 @@ A.Sy.prototype={
 ag(){var s=this
 s.au()
 s.d!==$&&A.bk()
-s.d="http://10.0.2.2:8000"
+s.d="https://api.sikorder.shop"
 s.bp()},
 l(){var s=this.y
 s.F$=$.al()
@@ -86240,7 +86240,7 @@ A.Sz.prototype={
 ag(){var s=this
 s.au()
 s.d!==$&&A.bk()
-s.d="http://10.0.2.2:8000"
+s.d="https://api.sikorder.shop"
 s.bp()},
 bp(){var s=0,r=A.J(t.H),q=this,p
 var $async$bp=A.K(function(a,b){if(a===1)return A.G(b,r)
